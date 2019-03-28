@@ -8,18 +8,18 @@ Returned values that resemble dates are reformatted with [moment.js](https://mom
 The application also reads text from a file and passes the text through a query string to make an API call. Results from all calls and commands are appended in [log.txt](/log.txt).
 ####Examples of liri-node-app's functionality:####
 Each screenshot showcases the returned and formatted data printed to the terminal and to a txt file.
-* The 'concert-this' command makes a call (with the fourth argument in the command line as a value in the URL's query string) to BandsinTown's API and returns the data as displayed in the screenshot.
-![The 'concert-this' command](/images/concertThis.jpg)
-* The 'do-what-it-says' command reads text from [random.txt](/random.txt) and separates the strings. The song title is passed through spotify's API call.
-![The do-what-it-says command](/images/doWhatItSays.jpg)
-* The 'movie-this' command with an undefined fourth argument will, by default, make an API call to OMDB with Mr. Nobody as the value in the query string.
-![The movie-this command (with an undefined fourth argument)](/images/movieThis.jpg)
+* The `concert-this` command makes a call (with the fourth argument in the command line as a value in the URL's query string) to BandsinTown's API and returns the data as displayed in the screenshot.
+![The 'concert-this' command](/screenshots/concertThis.JPG)
+* The `do-what-it-says` command reads text from [random.txt](/random.txt) and separates the strings. The song title is passed through spotify's API call.
+![The 'do-what-it-says' command](/screenshots/doWhatItSays.JPG)
+* The `movie-this` command with an undefined fourth argument will, by default, make an API call to OMDB with Mr. Nobody as the value in the query string.
+![The 'movie-this' command (with an undefined fourth argument)](/screenshots/movieThis.JPG)
 * When the fourth argument is defined, the application will pass it as a reformatted, query-string-friendly string in the URL. This screenshot displays data retrieved from OMDB.
-![The movie-this command (with a defined fourth argument)](images/movieThisTheDarkKnight.jpg)
-* The 'spotify-this-song' makes a call to Spotify's API using the fourth argument. The fourth argument is passed into the .search() method unformatted. Spotify's method does not require the user to 'build' the URL. Rather the values are simply assigned to the parameters within the method. The default value (if no fourth argument is provided) is "The Sign" by Ace of Base.
-![The spotify-this-song (with an undefined fourth argument)](images/spotifyThisSong.jpg)
-* The last demonstration is that of the 'spotify-this-song' command with a defined fourth argument. In this example, "Snow" is typed as the fourth argument.
-![The spotify-this-song (with a defined fourth argument)](images/spotifyThisSongSnow.jpg)
+![The 'movie-this' command (with a defined fourth argument)](screenshots/movieThisTheDarkKnight.JPG)
+* The `spotify-this-song` makes a call to Spotify's API using the fourth argument. The fourth argument is passed into the .search() method unformatted. Spotify's method does not require the user to 'build' the URL. Rather the values are simply assigned to the parameters within the method. The default value (if no fourth argument is provided) is "The Sign" by Ace of Base.
+![The 'spotify-this-song' (with an undefined fourth argument)](screenshots/spotifyThisSong.JPG)
+* The last demonstration is that of the `spotify-this-song` command with a defined fourth argument. In this example, "Snow" is typed as the fourth argument.
+![The 'spotify-this-song' (with a defined fourth argument)](screenshots/spotifyThisSongSnow.JPG)
 ## Why liri-node-app is useful
 The application retrieves and prints data in an easy-to-read format for the user. Data is retrieved from spotify's API, BandsinTown's API and OMDB's API.
 
