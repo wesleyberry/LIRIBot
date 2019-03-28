@@ -30,6 +30,7 @@ Users can get started with liri-node-app by installing node, creating a JSON fil
 * `spotify-this-song`
 * `movie-this`
 * `do-what-it-says`
+
 Enter commands into the terminal in the format:
 * node [file name] [liri-node-app-specific command] [searched term]
 
@@ -41,5 +42,5 @@ Wesley Berry maintains and contributes to liri-node-app.
 Find Wesley Berry on 
 * [LinkedIn](https://www.linkedin.com/in/wesley-berry-89742317a) 
 * [GitHub](https://github.com/wesleyberry) 
-or check out his 
-* [online portfolio](https://wesleyberry.github.io/Responsive-Portfolio/).
+
+* or check out his [online portfolio](https://wesleyberry.github.io/Responsive-Portfolio/).
