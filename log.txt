@@ -26,3 +26,105 @@ Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
 Spotify link: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
 Album: Poodle Hat
 ---------------------------
+-----------------------------------------------------------
+Command:spotify-this-song ace of spades
+Artist: Motörhead
+Song name: Ace of Spades
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: (We Are) The Roadcrew
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: Love Me Like a Reptile
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: Fast and Loose
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: Ace of Spades
+Spotify link: https://open.spotify.com/album/2lbQGmGORAmFz6tx91GD07
+Album: The Chase Is Better Than the Catch - The Singles A's & B's
+---------------------------
+-----------------------------------------------------------
+Command:spotify-this-song ace of spades
+Artist: Motörhead
+Song name: Ace of Spades
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: (We Are) The Roadcrew
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: Love Me Like a Reptile
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: Ace of Spades
+Spotify link: https://open.spotify.com/album/2lbQGmGORAmFz6tx91GD07
+Album: The Chase Is Better Than the Catch - The Singles A's & B's
+---------------------------
+Artist: Motörhead
+Song name: Fast and Loose
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+-----------------------------------------------------------
+Command:spotify-this-song undefined
+Artist: Ace of Base
+Song name: The Sign
+Spotify link: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+---------------------------
+-----------------------------------------------------------
+Command:spotify-this-song undefined
+Artist: Ace of Base
+Song name: The Sign
+Spotify link: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+---------------------------
+-----------------------------------------------------------
+Command:spotify-this-song ace of spades
+Artist: Motörhead
+Song name: Ace of Spades
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: Ace of Spades
+Spotify link: https://open.spotify.com/album/2lbQGmGORAmFz6tx91GD07
+Album: The Chase Is Better Than the Catch - The Singles A's & B's
+---------------------------
+Artist: Motörhead
+Song name: Love Me Like a Reptile
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: (We Are) The Roadcrew
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+Artist: Motörhead
+Song name: Fast and Loose
+Spotify link: https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91
+Album: Ace of Spades (Expanded Edition)
+---------------------------
+-----------------------------------------------------------
+Command:spotify-this-song undefined
+Artist: Ace of Base
+Song name: The Sign
+Spotify link: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+Album: The Sign (US Album) [Remastered]
+---------------------------

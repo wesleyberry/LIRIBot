@@ -189,16 +189,18 @@ function spotifyInput(data) {
     }
 }
 function spotifySign(data) {
-    for (var i = 9; i < 10; i++) {
-        // 1) Artist(s)
-        console.log("\nArtist: " + data.tracks.items[i].album.artists[0].name);
-        // 2) The song's name
-        console.log("Song name: " + data.tracks.items[i].name);
-        // 3) A preview link of the song from Spotify
-        console.log("Spotify link: " + data.tracks.items[i].album.external_urls.spotify);
-        // 4) The album that the song is from
-        console.log("Album: " + data.tracks.items[i].album.name);
-        console.log("---------------------------");
+    for (var i = 0; i < 10; i++) {
+        if(data.tracks.items[i].album.artists[0].name == "Ace of Base") {
+            // 1) Artist(s)
+            console.log("\nArtist: " + data.tracks.items[i].album.artists[0].name);
+            // 2) The song's name
+            console.log("Song name: " + data.tracks.items[i].name);
+            // 3) A preview link of the song from Spotify
+            console.log("Spotify link: " + data.tracks.items[i].album.external_urls.spotify);
+            // 4) The album that the song is from
+            console.log("Album: " + data.tracks.items[i].album.name);
+            console.log("---------------------------");
+        }
     }
 }
 function spotifyWrite(data) {
@@ -216,16 +218,18 @@ function spotifyWrite(data) {
     }
 }
 function spotifyWrite2(data) {
-    for (var i = 9; i < 10; i++) {
-        total = "\nArtist: " + data.tracks.items[i].album.artists[0].name +
-            "\nSong name: " + data.tracks.items[i].name +
-            "\nSpotify link: " + data.tracks.items[i].album.external_urls.spotify +
-            "\nAlbum: " + data.tracks.items[i].album.name +
-            "\n---------------------------";
-        fs.appendFile("log.txt", total, function (err) {
-            if (err) {
-                console.log(err);
-            }
-        });
+    for (var i = 0; i < 10; i++) {
+        if(data.tracks.items[i].album.artists[0].name == "Ace of Base") {
+            total = "\nArtist: " + data.tracks.items[i].album.artists[0].name +
+                "\nSong name: " + data.tracks.items[i].name +
+                "\nSpotify link: " + data.tracks.items[i].album.external_urls.spotify +
+                "\nAlbum: " + data.tracks.items[i].album.name +
+                "\n---------------------------";
+            fs.appendFile("log.txt", total, function (err) {
+                if (err) {
+                    console.log(err);
+                }
+            });
+        }
     }
 }
